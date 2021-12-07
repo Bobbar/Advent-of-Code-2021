@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 6 - Lanternfish", "Day 6 - Lanternfish", "{24B55C90-4585-451D-A630-6EA111C2860A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonar Sweep", "src\Day 1 - Sonar Sweep\Sonar Sweep\Sonar Sweep.csproj", "{6A1F1CEF-DC79-4803-B081-58D01F43A384}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lanternfish", "src\Day 6 - Lanternfish\Lanternfish\Lanternfish.csproj", "{B178D09C-DE5D-46B0-870A-4224805B2DE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 1 - Sonar Sweep", "Day 1 - Sonar Sweep", "{40D34C19-1501-4102-856B-7324AB934953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1F1CEF-DC79-4803-B081-58D01F43A384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1F1CEF-DC79-4803-B081-58D01F43A384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1F1CEF-DC79-4803-B081-58D01F43A384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1F1CEF-DC79-4803-B081-58D01F43A384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B178D09C-DE5D-46B0-870A-4224805B2DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B178D09C-DE5D-46B0-870A-4224805B2DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B178D09C-DE5D-46B0-870A-4224805B2DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B178D09C-DE5D-46B0-870A-4224805B2DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6A1F1CEF-DC79-4803-B081-58D01F43A384} = {40D34C19-1501-4102-856B-7324AB934953}
+		{B178D09C-DE5D-46B0-870A-4224805B2DE4} = {24B55C90-4585-451D-A630-6EA111C2860A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31862EB0-46FD-4C45-AD2B-1458D0CFBD39}
+	EndGlobalSection
+EndGlobal
