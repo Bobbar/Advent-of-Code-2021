@@ -31,6 +31,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 7 - The Treachery of Wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whales", "src\Day 7 - The Treachery of Whales\Whales\Whales.csproj", "{E96DAD03-AD85-4932-897A-726092CE8FFB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 8 - Seven Segment Search", "Day 8 - Seven Segment Search", "{6B65AD64-848D-4ECF-B87C-8A7BC65DB8A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seven Segment Search", "src\Day 8 - Seven Segment Search\Seven Segment Search\Seven Segment Search.csproj", "{23049560-43BF-4960-A7E9-DC35A29F008B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +69,10 @@ Global
 		{E96DAD03-AD85-4932-897A-726092CE8FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E96DAD03-AD85-4932-897A-726092CE8FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E96DAD03-AD85-4932-897A-726092CE8FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23049560-43BF-4960-A7E9-DC35A29F008B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23049560-43BF-4960-A7E9-DC35A29F008B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23049560-43BF-4960-A7E9-DC35A29F008B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23049560-43BF-4960-A7E9-DC35A29F008B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -77,6 +85,7 @@ Global
 		{DB7B7565-28F3-4185-8A40-549E07CE98A0} = {5ABBE172-EE79-4620-A89A-05B31662B366}
 		{EA4E76E6-DF6A-4425-9CDB-1DE6708F9752} = {156DD1B0-F3D5-4A03-AC71-284AFF0DA75A}
 		{E96DAD03-AD85-4932-897A-726092CE8FFB} = {1EEB10F3-1015-4AA4-B332-D3BDCAE86165}
+		{23049560-43BF-4960-A7E9-DC35A29F008B} = {6B65AD64-848D-4ECF-B87C-8A7BC65DB8A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {31862EB0-46FD-4C45-AD2B-1458D0CFBD39}
