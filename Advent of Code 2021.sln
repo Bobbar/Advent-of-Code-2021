@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binary Diagnostic", "src\Da
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 4 - Giant Squid", "Day 4 - Giant Squid", "{5ABBE172-EE79-4620-A89A-05B31662B366}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giant Squid", "src\Day 4 - Giant Squid\Giant Squid\Giant Squid.csproj", "{DB7B7565-28F3-4185-8A40-549E07CE98A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Giant Squid", "src\Day 4 - Giant Squid\Giant Squid\Giant Squid.csproj", "{DB7B7565-28F3-4185-8A40-549E07CE98A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 5 - Hydrothermal Venture", "Day 5 - Hydrothermal Venture", "{156DD1B0-F3D5-4A03-AC71-284AFF0DA75A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hydrothermal Venture", "src\Day 5 - Hydrothermal Venture\Hydrothermal Venture\Hydrothermal Venture.csproj", "{EA4E76E6-DF6A-4425-9CDB-1DE6708F9752}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +53,10 @@ Global
 		{DB7B7565-28F3-4185-8A40-549E07CE98A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB7B7565-28F3-4185-8A40-549E07CE98A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB7B7565-28F3-4185-8A40-549E07CE98A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA4E76E6-DF6A-4425-9CDB-1DE6708F9752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4E76E6-DF6A-4425-9CDB-1DE6708F9752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4E76E6-DF6A-4425-9CDB-1DE6708F9752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4E76E6-DF6A-4425-9CDB-1DE6708F9752}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +67,7 @@ Global
 		{B2385C33-52E8-46F4-85B1-AA0BD8056AF0} = {798ADBE6-40DF-4AAC-B791-214A9729461F}
 		{98BFADD9-441B-469F-AA31-24FB38715031} = {A5AAE26B-F081-4477-84E3-B73A4F830AF6}
 		{DB7B7565-28F3-4185-8A40-549E07CE98A0} = {5ABBE172-EE79-4620-A89A-05B31662B366}
+		{EA4E76E6-DF6A-4425-9CDB-1DE6708F9752} = {156DD1B0-F3D5-4A03-AC71-284AFF0DA75A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {31862EB0-46FD-4C45-AD2B-1458D0CFBD39}
