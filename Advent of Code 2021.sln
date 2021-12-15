@@ -45,7 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Syntax Scoring", "src\Day 1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 11 - Dumbo Octopus", "Day 11 - Dumbo Octopus", "{62ACB9BE-0100-4225-84E1-0DFF5A6BD437}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dumbo Octopus", "src\Day 11 - Dumbo Octopus\Dumbo Octopus\Dumbo Octopus.csproj", "{22955E37-B98B-4CE4-8DC1-B6EE6B5245EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dumbo Octopus", "src\Day 11 - Dumbo Octopus\Dumbo Octopus\Dumbo Octopus.csproj", "{22955E37-B98B-4CE4-8DC1-B6EE6B5245EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 12 - Passage Pathing", "Day 12 - Passage Pathing", "{D97399F0-B2AF-43A3-88B6-27DC5C4861D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passage Pathing", "src\Day 12 - Passage Pathing\Passage Pathing\Passage Pathing.csproj", "{2FBAF641-B78D-46D6-A0DB-23A492F988C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -97,6 +101,10 @@ Global
 		{22955E37-B98B-4CE4-8DC1-B6EE6B5245EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22955E37-B98B-4CE4-8DC1-B6EE6B5245EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22955E37-B98B-4CE4-8DC1-B6EE6B5245EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBAF641-B78D-46D6-A0DB-23A492F988C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBAF641-B78D-46D6-A0DB-23A492F988C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBAF641-B78D-46D6-A0DB-23A492F988C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBAF641-B78D-46D6-A0DB-23A492F988C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -113,6 +121,7 @@ Global
 		{FE049E4B-EA00-4CBE-8522-F97A01AFA726} = {3D32178A-6880-497C-A9F5-62ACB7524BA8}
 		{8DFFE33B-34E7-4ACF-A6AD-3D4B6F67A41A} = {4802FB57-349A-4842-9089-9554494BB702}
 		{22955E37-B98B-4CE4-8DC1-B6EE6B5245EE} = {62ACB9BE-0100-4225-84E1-0DFF5A6BD437}
+		{2FBAF641-B78D-46D6-A0DB-23A492F988C0} = {D97399F0-B2AF-43A3-88B6-27DC5C4861D2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {31862EB0-46FD-4C45-AD2B-1458D0CFBD39}
