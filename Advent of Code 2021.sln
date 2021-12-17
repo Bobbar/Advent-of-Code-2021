@@ -53,7 +53,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Passage Pathing", "src\Day 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 13 - Transparent Origami", "Day 13 - Transparent Origami", "{F4667CF8-CF53-4D90-8E54-0F752AB99624}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transparent Origami", "src\Day 13 - Transparent Origami\Transparent Origami\Transparent Origami.csproj", "{4F1CBBA0-DEE7-42A5-BE1A-4928461648AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transparent Origami", "src\Day 13 - Transparent Origami\Transparent Origami\Transparent Origami.csproj", "{4F1CBBA0-DEE7-42A5-BE1A-4928461648AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 14 - Extended Polymerization", "Day 14 - Extended Polymerization", "{2650C143-3E02-4932-9B72-903FFA225482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extended Polymerization", "src\Day 14 - Extended Polymerization\Extended Polymerization\Extended Polymerization.csproj", "{51731384-BA12-4CCD-AE3D-23FEDBE34BA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -113,6 +117,10 @@ Global
 		{4F1CBBA0-DEE7-42A5-BE1A-4928461648AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F1CBBA0-DEE7-42A5-BE1A-4928461648AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F1CBBA0-DEE7-42A5-BE1A-4928461648AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51731384-BA12-4CCD-AE3D-23FEDBE34BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51731384-BA12-4CCD-AE3D-23FEDBE34BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51731384-BA12-4CCD-AE3D-23FEDBE34BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51731384-BA12-4CCD-AE3D-23FEDBE34BA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -131,6 +139,7 @@ Global
 		{22955E37-B98B-4CE4-8DC1-B6EE6B5245EE} = {62ACB9BE-0100-4225-84E1-0DFF5A6BD437}
 		{2FBAF641-B78D-46D6-A0DB-23A492F988C0} = {D97399F0-B2AF-43A3-88B6-27DC5C4861D2}
 		{4F1CBBA0-DEE7-42A5-BE1A-4928461648AB} = {F4667CF8-CF53-4D90-8E54-0F752AB99624}
+		{51731384-BA12-4CCD-AE3D-23FEDBE34BA9} = {2650C143-3E02-4932-9B72-903FFA225482}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {31862EB0-46FD-4C45-AD2B-1458D0CFBD39}
