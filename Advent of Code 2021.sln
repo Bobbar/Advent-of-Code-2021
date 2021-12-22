@@ -57,7 +57,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transparent Origami", "src\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 14 - Extended Polymerization", "Day 14 - Extended Polymerization", "{2650C143-3E02-4932-9B72-903FFA225482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extended Polymerization", "src\Day 14 - Extended Polymerization\Extended Polymerization\Extended Polymerization.csproj", "{51731384-BA12-4CCD-AE3D-23FEDBE34BA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extended Polymerization", "src\Day 14 - Extended Polymerization\Extended Polymerization\Extended Polymerization.csproj", "{51731384-BA12-4CCD-AE3D-23FEDBE34BA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 15 - Chiton", "Day 15 - Chiton", "{77814457-DFAF-4D21-BBD7-36361A1D7B41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chiton", "src\Day 15 - Chiton\Chiton\Chiton.csproj", "{060F0211-928B-4264-A9D8-8578BABA1972}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 16 - Packet Decoder", "Day 16 - Packet Decoder", "{2549542C-80FE-4B02-90ED-C65BC6FEA30E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packet Decoder", "src\Day 16 - Packet Decoder\Packet Decoder\Packet Decoder.csproj", "{83B4437A-1509-498C-A669-903907F28F1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 17 - Trick Shot", "Day 17 - Trick Shot", "{49A54441-F42C-4B54-9777-B13D9698D18E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trick Shot", "src\Day 17 - Trick Shot\Trick Shot\Trick Shot.csproj", "{52217E42-8E93-4A9A-8D93-4C2F030175F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +133,18 @@ Global
 		{51731384-BA12-4CCD-AE3D-23FEDBE34BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51731384-BA12-4CCD-AE3D-23FEDBE34BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51731384-BA12-4CCD-AE3D-23FEDBE34BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060F0211-928B-4264-A9D8-8578BABA1972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060F0211-928B-4264-A9D8-8578BABA1972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060F0211-928B-4264-A9D8-8578BABA1972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060F0211-928B-4264-A9D8-8578BABA1972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B4437A-1509-498C-A669-903907F28F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B4437A-1509-498C-A669-903907F28F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B4437A-1509-498C-A669-903907F28F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B4437A-1509-498C-A669-903907F28F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52217E42-8E93-4A9A-8D93-4C2F030175F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52217E42-8E93-4A9A-8D93-4C2F030175F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52217E42-8E93-4A9A-8D93-4C2F030175F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52217E42-8E93-4A9A-8D93-4C2F030175F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -140,6 +164,9 @@ Global
 		{2FBAF641-B78D-46D6-A0DB-23A492F988C0} = {D97399F0-B2AF-43A3-88B6-27DC5C4861D2}
 		{4F1CBBA0-DEE7-42A5-BE1A-4928461648AB} = {F4667CF8-CF53-4D90-8E54-0F752AB99624}
 		{51731384-BA12-4CCD-AE3D-23FEDBE34BA9} = {2650C143-3E02-4932-9B72-903FFA225482}
+		{060F0211-928B-4264-A9D8-8578BABA1972} = {77814457-DFAF-4D21-BBD7-36361A1D7B41}
+		{83B4437A-1509-498C-A669-903907F28F1B} = {2549542C-80FE-4B02-90ED-C65BC6FEA30E}
+		{52217E42-8E93-4A9A-8D93-4C2F030175F5} = {49A54441-F42C-4B54-9777-B13D9698D18E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {31862EB0-46FD-4C45-AD2B-1458D0CFBD39}
